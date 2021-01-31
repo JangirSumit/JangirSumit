@@ -12,7 +12,7 @@
 - 📫 How to reach me **sumitjangir.jecrc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="background:#ffffff !important;">
 <a href="https://codepen.io/jangirsumit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jangirsumit" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jangirsumit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jangirsumit" height="30" width="40" /></a>
 <a href="https://codesandbox.com/jangirsumit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="jangirsumit" height="30" width="40" /></a>
@@ -25,7 +25,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jangirsumit&show_icons=true&locale=en&layout=compact" alt="jangirsumit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jangirsumit&show_icons=true&locale=en" alt="jangirsumit" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jangirsumit&show_icons=true&locale=en" alt="jangirsumit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jangirsumit&" alt="jangirsumit" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jangirsumit&" alt="jangirsumit" /></p>
 
+
+<h4>Lets Connect</h4>
