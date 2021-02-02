@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jangirsumit&label=Profile%20views&color=0e75b6&style=flat" alt="jangirsumit" /> </p>
 
-- 💬 Expertise **React/Redux, Javascript, C#**
+- 💬 Expertise in **React/Redux, Javascript, C#**
 
 - 📫 How to reach me **sumitjangir.jecrc@gmail.com**
 
