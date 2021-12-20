@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sumitjangir.jecrc@gmail.com**
 
-- Learning and Practicing **Docker/Kubernetes**
+- Learning and Practicing **Akka.net**
 - Working Experience with **Saxo Bank, Nagarro, TCS**
 
 <h3 align="left">Connect with me:</h3>
