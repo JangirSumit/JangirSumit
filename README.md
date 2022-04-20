@@ -8,7 +8,7 @@
 - 📫 How to reach me **sumitjangir.jecrc@gmail.com**
 
 - Learning and Practicing **Akka.net**
-- Working Experience with **Saxo Bank, Nagarro, TCS**
+- Working Experience with **Leapwork, Saxo Bank, Nagarro, TCS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="background: #ffffff;"><a href="https://codepen.io/jangirsumit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jangirsumit" height="30" width="40"/></a>
